@@ -7,9 +7,9 @@ const projects = [
         id: 1,
         title: "E-Commerce Website",
         description: "A Website at which you can buy your daily-needed Items . Made using React and TailWind ",
-        image: '/projects/project1.png',
+        image: './projects/project1.png',
         tags: ['React', 'TailwindCSS', "NodeJS"],
-        demoUrl: 'https://khushal1421.github.io/react-project-e-commerce/',
+        demoUrl: 'https://``khushal1421.github.io/react-project-e-commerce/',
         githubUrl:'https://github.com/Khushal1421/react-project-e-commerce'
     }
 ]
