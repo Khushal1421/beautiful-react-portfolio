@@ -1,0 +1,15 @@
+USE . in project-name to ensure U don't create a new Directory
+Told new Thing:- alias (which is inside vite.config.js)
+Installed lucide-react :- to give us access to some of Icons we'll be Using
+Installed react-router-dom:- in case if someone tries to open wrong page
+Installed tailwind-merge:- It'll allow us to create a Util function that will allow to combine ClassNames in Tailwind so we don't have to worry abt writing ClassNames in 1 Single Line (IMP)
+MOSH TOLD ABT Daisy UI but here he's Telling abt radix ui (SEE IN MORE DETAIL) 9:08 ke aasPas
+ pnpm install @radix-ui/react-toast class-variance-authority clsx
+
+10:41 IMP SEE
+SEE 18:50 DOUBT and IMP as WELL
+IT's IMP for me to analyze index.css
+
+23:33 Saying he's gonna create Utility Classes:- meaning we're going to create Class Names that we want to use to apply some sort of styling in Tailwind CSS
+30:15 SEE
+foreground is something that appears in front of background
