@@ -72,20 +72,7 @@ export const AboutSection = () => {
                   </div>
               </div>
             </div>
-            <div className="gradient-border p-6 card-hover">
-              <div className="flex items-start gap-4">
-                <div className="p-3 rounded-full bg-primary/10">
-                  <Briefcase className="h-6 w-6 text-primary" />
-                </div>
-                <div className="text-left">
-                    <h4 className="font-semibold text-lg">Project Management</h4>
-                    <p className="text-muted-foreground">
-                      Leading projects from conception to completion with Agile
-                      Methodologies
-                    </p>
-                  </div>
-              </div>
-            </div>
+            
           </div>
         </div>
       </div>
