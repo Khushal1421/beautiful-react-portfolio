@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <Toaster />
-      <BrowserRouter basename="/beautiful-react-portfolio">
+      <BrowserRouter basename="/my-portfolio">
          <Routes>
             <Route index element={<Home />} />
             <Route path='*' element={<NotFound />} />
